@@ -5,7 +5,7 @@ This is a modified version of ffmpeg for compatibility with ffmpeg-static packag
 
 [FFmpeg](http://ffmpeg.org/) module for [Node](http://nodejs.org/). This library provides a set of functions and utilities to abstract commands-line usage of ffmpeg. To use this library requires that ffmpeg is already installed (including all necessary encoding libraries like libmp3lame or libx264)
 
-You can install this module using [npm](http://github.com/isaacs/npm):
+You can install this module using [npm](https://npmjs.com):
 
 	npm install ffmpeg-for-static
 
